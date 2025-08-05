@@ -31,7 +31,7 @@ I'm a passionate and experienced technologist with 20+ years of hands-on experie
 
 | Project | Description |
 |--------|-------------|
-| [🔗 Smart Pill Dispenser](https://github.com/mathurmayank/smart-pill-dispenser) | Edge AI-powered medication dispenser with scheduling, alerting, and adherence tracking. |
+| [🔗 Predictive Maintenance for Water Pumps (TinyML)](https://github.com/mathurmayank/tinyml-pump-fault-prediction) | Edge AI-powered device for fault classification and cloud-based real-time visualization. |
 | [🔗 Wake Word Detection (TinyML)](https://github.com/mathurmayank/wake-word-tinyml) | On-device keyword spotting using TensorFlow Lite Micro on Arduino Nano 33 BLE Sense. |
 | [🔗 Object Detection on Jetson Nano](https://github.com/mathurmayank/jetson-nano-object-detection) | Real-time YOLOv5 object detection system optimized for Edge inference. |
 | [🔗 Predictive Maintenance System](https://github.com/mathurmayank/predictive-maintenance) | ML-based vibration anomaly detection using time-series sensor data. |
