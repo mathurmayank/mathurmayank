@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Mayank Mathur
 
 ### 🔧 Embedded Systems | 🌐 IoT | 🤖 Edge AI | 🧠 TinyML | 🧩 Product Architect
-
+#
 I'm a passionate and experienced technologist with 20+ years of hands-on experience building embedded systems, smart IoT products, and real-world AI/ML applications. I specialize in **designing full-stack intelligent systems** that live at the intersection of hardware, software, and machine learning — particularly **Edge AI** and **TinyML**.
 
 ---
